@@ -1,0 +1,22 @@
+/*スマホ用*/
+@media (max-width: 500px) {
+	.body-wrapper {
+		margin: 0 5%;
+	}
+}
+
+/**/
+/*タブレット用*/
+@media (min-width: 501px) and (max-width: 768px) {
+	.body-wrapper {
+		margin: 0 10%;
+	}
+}
+/**/
+/*パソコン用*/
+@media (min-width: 769px) {
+	.body-wrapper {
+		margin: 0 10%;
+	}
+}
+/**/

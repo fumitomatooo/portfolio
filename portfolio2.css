@@ -1,0 +1,84 @@
+html {
+	overflow: auto;
+}
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	max-width: 1400px;
+	overflow: hidden;
+}
+
+.container {
+	width: 100%;
+	margin: 10% auto;
+	text-align: center;
+	}
+
+header {
+	height: 30%;
+	background-color: white;
+	text-align: center;
+	padding-right: 2%;
+}
+
+.header-menu {
+	display: inline-block;
+	padding: 2% 4%;
+	font-weight: bolder;
+}
+
+.header-menu a {
+	color: black;
+}
+
+.top-wrapper {
+	background-image: url('./top.jpg');
+	background-size: cover;
+	width: 100%;
+}
+
+.top-heading {
+	padding: 20%;
+	color: white;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.body-wrapper {
+	text-align: center;
+}
+
+.profile-heading,.skill-heading,.contact-heading {
+	font-weight: bolder;
+	margin-bottom: 3%;
+}
+
+.skill-content {
+	margin:;
+}
+
+.skill-img {
+	width: 300px;
+	height: 300px;
+	margin: 2% 0;
+}
+
+.skill-level {
+	margin: 0 auto;
+	width: 300px;
+	padding-bottom: 10%;
+}
+
+.skill-title {
+	padding: 3% 0;
+}
+
+.twitter {
+	font-size: 20px;
+}
+
+.twitter-acount {
+	float: right;
+}
